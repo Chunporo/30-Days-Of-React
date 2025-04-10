@@ -1,0 +1,4 @@
+git add solution/day1/level1.js
+git commit -m "chore: exercise level 1 is completed"
+git push origin exercise-solutions
+
